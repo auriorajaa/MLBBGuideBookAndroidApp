@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.MLBBGuideBookAndroidApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+    </style>
+
+    <!-- Animation style for slide-in and slide-out -->
+    <style name="SlideActivityAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_up</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_down</item>
+    </style>
+
+</resources>

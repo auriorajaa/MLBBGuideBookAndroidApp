@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "835124692629",
+    "firebase_url": "https://project-cd00c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-cd00c",
+    "storage_bucket": "project-cd00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835124692629:android:edabf637b87fef7b5dbd9c",
+        "android_client_info": {
+          "package_name": "com.example.mlbbguidebookandroidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqcPnjdJoOX3g5IdXoiQj_CMEUAM1vX24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
